@@ -1,5 +1,5 @@
 {
-  "name": "everyauth-express3",
+  "name": "everyauth",
   "description": "Auth solution (password, facebook, & more) for your node.js Connect & Express 3.x apps",
   "version": "0.2.34",
   "homepage": "https://github.com/hermanschaaf/everyauth-express3/",
